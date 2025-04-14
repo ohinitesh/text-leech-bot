@@ -12,11 +12,11 @@
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "23171328",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "6ddc5297d7944557b225b54968efe0b8",
             "required": true
         },
         "BOT_TOKEN": {
@@ -24,7 +24,7 @@
             "required": true
         },
         "PORT": {
-            "description": "𝘌𝘕𝘛𝘌𝘙 𝘈𝘕𝘠 𝘗𝘖𝘙𝘛 𝘓𝘐𝘒𝘌 8080",
+            "description": "8899",
             "required": true
         }
     },
